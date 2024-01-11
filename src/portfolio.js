@@ -257,7 +257,7 @@ const achievementSection = {
 
     {
       title: "Coding Profile",
-      subtitle: "I have solved 400+ question that helped me a lots to learn about Data Structures & algorithm",
+      subtitle: "I have solved 300+ question that helped me a lots to learn about Data Structures & algorithm",
       image: require("./assets/images/leetcode_logo1.png"),
       imageAlt: "PWA Logo",
       footerLink: [
